@@ -373,7 +373,9 @@ footer p {
   visibility: visible;
   z-index: 100;
 }
-
+.section{
+  padding-top: 100px;
+}
 @keyframes bounce {
   0% {
     transform: scale(1);
